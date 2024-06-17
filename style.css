@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+#heading{
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    font-size: 30px;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
